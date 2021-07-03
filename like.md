@@ -1,4 +1,2 @@
 like function
-
-++++++
-AddedAddedAdded
+1
