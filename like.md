@@ -1,2 +1,2 @@
 like function
-12345
+123456
